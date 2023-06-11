@@ -8,4 +8,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=99arrzel&show_icons=true&locale=en&layout=compact" alt="99arrzel" /></p>
   
-[![Arrzel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arrzel)](https://github.com/anuraghazra/github-readme-stats)
+[![99Arrzel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99Arrzel)](https://github.com/anuraghazra/github-readme-stats)
