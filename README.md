@@ -1,6 +1,6 @@
-<h3 align="center">Another developer from Bolivia - La Paz</h3>
-<blockquote  align="center">"Ponele que sabes usar TODO" -<i>Silva</></blockquote >
-
+<h3 align="center">Web Dev</h3>
+<blockquote  align="center">"Do it once, do it right"</blockquote >
+<h4 align="center">I just like to code</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99arrzel&label=Profile%20views&color=0e75b6&style=flat" alt="99arrzel" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
