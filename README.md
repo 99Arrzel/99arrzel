@@ -16,7 +16,7 @@ I just like to code.
 
 ---
 
-## Featured Projects
+## Featured Toy Projects
 
 **[PMSAC](https://github.com/99Arrzel/PMSAC)** - ID-card based attendance tracking system. Built with Node.js and Express.
 
